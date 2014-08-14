@@ -1,0 +1,16 @@
+Base: http://www.raspberrypi.org/wp-content/uploads/2014/04/bplus-gpio.png
+
+Status: not completed
+
+            G G G   G G   
+            1 1 1   2 2
+            4 5 8   3 4                       
+            | | |   | |   
+      2   6 | 10  14  18  22  26  30  34  38  
+        4   8   12  16  20  24  28  32  36  40
+     .--|---|-|-|-- | | ---------------------.
+  J8 |o o - o o o - o o - o o o o - o - o o o|
+     |o o o o o o o o o o o o o o o o o o o o|
+     '---------------------------------------'
+      1   5   9   11  15  19  
+        3   7   11         .J8
