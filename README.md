@@ -2,7 +2,7 @@
 
 ## RPi type B+
 
-### Vertical GPI header
+### Vertical GPIO header
 
 ```
                             J8
