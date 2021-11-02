@@ -17,7 +17,7 @@
     (GPIO_GEN3) GPIO22--15-|O O|-16-----GPIO23 (GPIO_GEN4)
                   +3V3--17-|O O|-18-----GPIO24 (GPIO_GEN5)
      (SPI_MOSI) GPIO10--19-|O.O|-20--_
-     (SPI_MOSO) GPIO9 --21-|O O|-22-----GPIO25 (GPIO_GEN6)
+     (SPI_MISO) GPIO9 --21-|O O|-22-----GPIO25 (GPIO_GEN6)
      (SPI_SCLK) GPIO11--23-|O O|-24-----GPIO8  (SPI_C0_N)
                       _-25-|O O|-26-----GPIO7  (SPI_C1_N)
        (EEPROM) ID_SD---27-|O O|-28-----ID_SC Reserved for ID EEPROM
